@@ -1,6 +1,6 @@
 # API Testing Project: Reqres.in
 
-![Project Status](https://img.shields.io/badge/status-complete-brightgreen) ![GitHub issues](https://img.shields.io/github/issues/khalakuzamanrony/Software-Testing-Projects/edit/main/Prolect-2%20(API%20Testing)) ![GitHub forks](https://img.shields.io/github/forks/yourusername/api-testing-project) ![GitHub stars](https://img.shields.io/github/stars/yourusername/api-testing-project) ![GitHub license](https://img.shields.io/github/license/yourusername/api-testing-project)
+![Project Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 Welcome to the API Testing project for Reqres.in! This project involves comprehensive testing of the Reqres.in API using Postman and Newman, focusing on CRUD operations and assertions.
 
@@ -29,31 +29,49 @@ This project demonstrates API testing on the Reqres.in test site. It includes:
 ## 📂 Project Structure
 
 ```plaintext
-api-testing-project/
-├── collections/
-│   └── Reqres_API_Test_Collection.postman_collection.json
-├── reports/
-│   └── Newman_Report.html
+Project-2 (API Testing)/
+├── API_CRUD_Testing.postman_collection.json/
+├── Newman_Report/
+│   └── Report.html
 ├── screenshots/
 │   └── report_screenshot.png
 ├── README.md
+```
+## 🚀 How to Run the Tests
+Prerequisites
+- **Postman**
+- **Node.js (for running Newman)**
+- **Newman**
 
+### Steps
 
-How to Run the Tests
-Requirements
-Postman
-Node.js
-Newman
-Steps
-Clone the Repository
+1. **Clone the Repository**
 
-git clone https://github.com/yourusername/api-testing-project.git
-cd api-testing-project
-Run the Postman Collection with Newman
+    ```sh
+    [git clone https://github.com/khalakuzamanrony/Software-Testing-Projects.git]
+    cd Project-2(API Testing)
+    ```
 
+2. **Run the Postman Collection with Newman**
 
-newman run collections/Reqres_API_Test_Collection.postman_collection.json -r html --reporter-html-export reports/Newman_Report.html
-View the Report
+    ```sh
+    newman run API_CRUD_Testing.postman_collection.json -r html --reporter-html-export Newman_Report/Report.html
+    ```
 
-Open reports/Newman_Report.html in your web browser.
+3. **View the Report**
 
+    Open `Newman_Report/Report.html` in your web browser.
+
+## Screenshot
+
+![Newman HTML Report](screenshots/report_screenshot.png)
+
+## Contact
+
+- **Email**: [khalekuzzamanrony3@gmail.com](mailto:khalekuzzamanrony3@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/khalekuzzamanrony/)
+- **GitHub**: [GitHub](https://github.com/khalakuzamanrony/)
+
+---
+
+*Maintained by [Khalekuzzaman Rony](https://github.com/khalakuzamanrony).*
