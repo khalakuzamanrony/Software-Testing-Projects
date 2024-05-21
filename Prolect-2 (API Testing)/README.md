@@ -1,6 +1,6 @@
 # API Testing Project: Reqres.in
 
-![Project Status](https://img.shields.io/badge/status-complete-brightgreen) ![GitHub issues](https://img.shields.io/github/issues/yourusername/api-testing-project) ![GitHub forks](https://img.shields.io/github/forks/yourusername/api-testing-project) ![GitHub stars](https://img.shields.io/github/stars/yourusername/api-testing-project) ![GitHub license](https://img.shields.io/github/license/yourusername/api-testing-project)
+![Project Status](https://img.shields.io/badge/status-complete-brightgreen) ![GitHub issues](https://img.shields.io/github/issues/khalakuzamanrony/Software-Testing-Projects/edit/main/Prolect-2%20(API%20Testing)) ![GitHub forks](https://img.shields.io/github/forks/yourusername/api-testing-project) ![GitHub stars](https://img.shields.io/github/stars/yourusername/api-testing-project) ![GitHub license](https://img.shields.io/github/license/yourusername/api-testing-project)
 
 Welcome to the API Testing project for Reqres.in! This project involves comprehensive testing of the Reqres.in API using Postman and Newman, focusing on CRUD operations and assertions.
 
