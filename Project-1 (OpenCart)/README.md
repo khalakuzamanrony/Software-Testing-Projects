@@ -20,7 +20,7 @@ Software Testing Project/
   ├── Selenium_Automation_Scripts/
   │ ├── TestScripts.java
   │ └── TestNG_Reports/
-  │ └── Report.html
+  │ └── emailable-report.html
   ├── JMeter_Test_Plan/
   │ ├── Test_Plan.jmx
   │ └── Performance_Reports/
