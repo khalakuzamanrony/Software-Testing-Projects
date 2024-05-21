@@ -26,7 +26,7 @@ Software Testing Project/
   │ └── Performance_Reports/
   │ └── Report.html
   ├── Screenshots/
-  │ ├── report_screenshot.png
+  │ ├── testNG-report.png
   │ └── jmeter_report_screenshot.png
 ```
 
@@ -49,7 +49,7 @@ Software Testing Project/
 ## Screenshots
 
 ### TestNG Report
-![TestNG Report](screenshots/report_screenshot.png)
+![TestNG Report](screenshots/testNG-report.png)
 
 ### JMeter Performance Report
 ![JMeter Performance Report](screenshots/jmeter_report_screenshot.png)
