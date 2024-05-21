@@ -1,6 +1,6 @@
 # API Testing Project: Reqres.in
 
-![Project Status](https://img.shields.io/badge/status-complete-brightgreen)
+![GitHub](https://img.shields.io/badge/Project-api_testing-blue)![Project Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 Welcome to the API Testing project for Reqres.in! This project involves comprehensive testing of the Reqres.in API using Postman and Newman, focusing on CRUD operations and assertions.
 
@@ -9,7 +9,6 @@ Welcome to the API Testing project for Reqres.in! This project involves comprehe
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
 - [Project Structure](#project-structure)
-- [How to Run the Tests](#how-to-run-the-tests)
 - [Screenshots](#screenshots)
 - [Contact](#contact)
 
@@ -37,30 +36,7 @@ Project-2 (API Testing)/
 │   └── report_screenshot.png
 ├── README.md
 ```
-## How to Run the Tests 
-Prerequisites
-- **Postman**
-- **Node.js (for running Newman)**
-- **Newman**
 
-### Steps
-
-1. **Clone the Repository**
-
-    ```sh
-    [git clone https://github.com/khalakuzamanrony/Software-Testing-Projects.git]
-    cd Project-2(API Testing)
-    ```
-
-2. **Run the Postman Collection with Newman**
-
-    ```sh
-    newman run API_CRUD_Testing.postman_collection.json -r html --reporter-html-export Newman_Report/Report.html
-    ```
-
-3. **View the Report**
-
-    Open `Newman_Report/Report.html` in your web browser.
 
 ## Screenshot
 
