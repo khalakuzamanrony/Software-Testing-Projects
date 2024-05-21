@@ -37,3 +37,23 @@ api-testing-project/
 ├── screenshots/
 │   └── report_screenshot.png
 ├── README.md
+
+
+How to Run the Tests
+Requirements
+Postman
+Node.js
+Newman
+Steps
+Clone the Repository
+
+git clone https://github.com/yourusername/api-testing-project.git
+cd api-testing-project
+Run the Postman Collection with Newman
+
+
+newman run collections/Reqres_API_Test_Collection.postman_collection.json -r html --reporter-html-export reports/Newman_Report.html
+View the Report
+
+Open reports/Newman_Report.html in your web browser.
+
