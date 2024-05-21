@@ -16,7 +16,7 @@ Software Testing Project/
   ├── Test_Cases.xlsx
   ├── RTM.xlsx
   ├── Bug_Report.xlsx
-  ├── OpenCart Project Assets.html (GoogleDoc)
+  ├── OpenCart Project Assets(GoogleDoc).url 
   ├── Selenium_Automation_Scripts/
   │ ├── TestScripts.java
   │ └── TestNG_Reports/
