@@ -13,7 +13,7 @@ Welcome to my Software Testing Projects repository! This repository contains var
 - Automation Testing: Selenium with Java and TestNG.
 - Performance Testing: JMeter.
 
-### [Project-2: API Testing](./Project-2%20(API%20Testing)/) Prolect-2 (API Testing)
+### [Project-2: API Testing](./Project-2%20(API-Testing)/) Prolect-2 (API Testing)
 
 **Description**: This project focuses on API testing using Postman and Newman. I have performed CRUD operations on a test API provided by Reqres.in and included assertions to verify the responses. The project contains a Postman collection, Newman reports, and screenshots.
 
